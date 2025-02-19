@@ -1,1 +1,1 @@
-"Update revised co-demo in README " 
+"Master node in README " 
