@@ -1,1 +1,1 @@
-"Revised Hello GitHub!" 
+"Hello GitHub!" 
